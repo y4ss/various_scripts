@@ -1,3 +1,5 @@
+## Extract subtitles from capcut draft_content.json into .srt file
+
 import json
 import os
 import re
